@@ -1,0 +1,4 @@
+<div class="container">
+<h1>Inicio</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga velit at sequi dolor incidunt minus unde, tempore ducimus facilis eaque odit dignissimos enim repellendus minima consequuntur hic illum mollitia quidem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet beatae animi natus, sapiente mollitia adipisci quisquam, voluptate repellendus impedit perferendis provident debitis eveniet porro dolores maiores assumenda quo voluptatibus! Vel? Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat magni provident est. Harum repellendus eaque accusamus, molestias quo quidem voluptate nihil aperiam, ullam labore corporis aliquam neque eveniet recusandae? Iusto!</p>
+</div>

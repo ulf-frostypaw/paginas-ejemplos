@@ -1,0 +1,4 @@
+<div class="container">
+<h2>Contacto</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis facere voluptas sit aspernatur accusamus et quibusdam corporis incidunt, iste voluptatem nam laborum quos ad praesentium eos a autem ducimus tenetur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, quae inventore aliquam quasi corporis minus dignissimos. Voluptatem, dolorum tempora ratione id sed cumque ducimus fugit, sit beatae eius velit quaerat? Lorem ipsum, dolor sit amet consectetur adipisicing elit. In aperiam temporibus ad ipsam nostrum? Facilis odio provident vel nobis, illum, esse soluta modi fugiat earum nisi doloremque at quod suscipit.</p>
+</div>

@@ -1,0 +1,4 @@
+<div class="container">
+<h2>Nosotros</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod veritatis fugit ratione necessitatibus praesentium pariatur aspernatur dolorem? Fugit tempore molestias deserunt alias qui accusantium, dolorem quasi laborum eius voluptatum inventore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Error optio harum fugiat facilis sed accusamus commodi eligendi laboriosam repudiandae tempora dolore consequuntur non dolorum illo, ab vero soluta sunt possimus. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem a vitae nulla eveniet necessitatibus quia fugit iste quod sequi voluptatum porro consequatur ex nihil, eaque ducimus culpa cupiditate laudantium. Aperiam?</p>
+</div>
